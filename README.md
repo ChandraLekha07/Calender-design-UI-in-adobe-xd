@@ -24,7 +24,7 @@ This repository contains an Adobe XD design of a modern and intuitive Date Range
 
 ## 📸 Preview
 
-Calender design.png
+Calender design.png-https://github.com/ChandraLekha07/Calender-design-UI-in-adobe-xd/blob/main/Calender%20design.png
 
 ## 🚀 How to Use
 
@@ -32,11 +32,6 @@ Calender design.png
 2. Open using **Adobe XD**.
 3. Customize as per your project needs.
 
-## 📂 Files
-
-- `DateRangePicker.xd` – Adobe XD Design file
-- `preview.png` – Design Preview Image
-- `README.md` – Project Documentation
 
 ## 📄 License
 
