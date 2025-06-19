@@ -24,7 +24,7 @@ This repository contains an Adobe XD design of a modern and intuitive Date Range
 
 ## 📸 Preview
 
-![Date Range Picker UI](./preview.png)
+Calender design.png
 
 ## 🚀 How to Use
 
